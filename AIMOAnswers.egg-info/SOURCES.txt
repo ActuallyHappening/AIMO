@@ -8,4 +8,3 @@ AIMOAnswers.egg-info/SOURCES.txt
 AIMOAnswers.egg-info/dependency_links.txt
 AIMOAnswers.egg-info/top_level.txt
 aimo/__init__.py
-aimo/aimo.py
